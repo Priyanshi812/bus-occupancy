@@ -1,4 +1,4 @@
-opencv-python==4.5.5.64
+opencv-contrib-python==4.8.1.78
 pandas==1.5.3
 ultralytics==8.0.0
 cvzone==1.5.6
